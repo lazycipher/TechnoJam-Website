@@ -1,8 +1,8 @@
 # TechnoJam Website
-### Technojam is a Computer Science Club of Galgotias University.
 
 ## What is expected ?
 ### A Static Website for a Computer Science Club
+
 
 ## Want to Contribute ?
 ### You are welcome to contribute on this project!
@@ -12,6 +12,7 @@
 * Do not Add Pages which are not proposed !
 * Use Dummy Data where required.
 * Website Should be Clean and Simple.
+* Don't change Directory Structure.
 * Do add your name and github profile in Contributors.html .
 
 ## Project Directory Structure
@@ -35,7 +36,7 @@
 * Fork this repo
 * Clone this to your local machine
 ```
-git clone https://github.com/
+git clone https://github.com/lazycipher/technojam-website.git
 cd hacktoberfest
 ```
 
@@ -52,3 +53,5 @@ git add .
 git commit -m "your-commit-msg"
 git push origin my-new-branch
 ```
+* Create Pull Request(PR).
+
